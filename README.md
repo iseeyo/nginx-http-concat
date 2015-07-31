@@ -129,7 +129,7 @@ Whether to ignore 404 and 403 or not.
 
  1. Clone the git repo.
      
-        git clone git://github.com/alibaba/nginx-http-concat.git
+        git clone git://github.com/iseeyo/nginx-http-concat.git
 
  2. Add the module to the build configuration by adding
     `--add-module=/path/to/nginx-http-concat`.
